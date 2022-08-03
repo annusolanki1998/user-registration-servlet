@@ -11,7 +11,6 @@ import java.io.IOException;
 import java.io.PrintWriter;
 import java.util.regex.Pattern;
 
-
 @WebServlet(
         description = "Login Servlet Testing",
         urlPatterns = {"/LoginServlet"},
